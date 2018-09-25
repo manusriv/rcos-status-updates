@@ -1,21 +1,16 @@
 ## Last Week's Accomplishments
 
-> In this section, you can write about what you accomplished in the previous week.
+Last week, I researched git and how the branches work since I have minimal experience with it. I also looked into different curriculum applications that are kid-friendly, such as BrainPop, to get some ideas to model our UI experience off of.
 
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+I also attended the Call for Code Hackathon where we developed a web application that connects community members during a natural disaster so they can communicate and exchange supplies.
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+My plan this week is to research and learn about ReactJS and work on the tutorial.I also plan to continue researching github and javascript.
 
 ## Anything Blocking?
 
-> In this section, you can write about any blockers that you are having trouble in the project.
-
-> Examples: Confusion on how to approach a problem, Limited experience with a specific technology
+I have very minimal experience with web development which presents me a large learning curve within this project.
 
 ## Notes
 
